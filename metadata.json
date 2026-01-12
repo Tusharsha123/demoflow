@@ -1,0 +1,10 @@
+
+{
+  "name": "DemoFlow AI",
+  "description": "A high-performance product demo recorder and AI-powered video editor to create, polish, and share professional walkthroughs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
